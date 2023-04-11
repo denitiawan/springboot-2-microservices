@@ -1,5 +1,5 @@
 ## infomation
-This is an backend server with Microservice architecture using Springboot and frontend made using react. all services will run on docker containers, for simplify develop, deploy and testing
+Backend serivice with Microservice architectures made using springcloud and springboot framework, and all service will running on docker container
 
 ## documentation and repository
 https://github.com/springboot-microservices-project
