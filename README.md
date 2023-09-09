@@ -1,5 +1,5 @@
-## information
-This is an prototype of backend server with Microservice architecture made using Springboot and frontend made using react. this project just a template and we can customize what bussines needed, and than all services will run on docker containers for simplify develop, deploy and testing
+## About
+Repository for share document about building backend service with Microservice Architecture using Java, Springboot, Spring Ecosystem, Docker, etc.
 
-## url repository and documentation
-https://github.com/springboot-microservices-project
+## Documents
+[https://github.com/go-microservices-project](https://github.com/springboot-microservices-project)https://github.com/springboot-microservices-project
